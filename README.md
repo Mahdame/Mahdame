@@ -3,4 +3,4 @@
 
 - :computer: Desenvolvedora .NET
 - :books: Análise e Desenvolvimento de Sistemas
-- :briefcase: F360°
+- :briefcase: Itaú Unibanco
