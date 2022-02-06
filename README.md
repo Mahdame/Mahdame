@@ -4,7 +4,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/RjWaD05.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/maira-moura-barbosa/">
+<a href="https://www.linkedin.com/in/mairamourabarbosa/">
   <img align="left" alt="Linkdin" width="22px" src="https://i.imgur.com/cwrwvQa.png" />
 </a>
 
