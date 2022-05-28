@@ -23,7 +23,7 @@
 <br />
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" />
 
-### Sobre mim / About me
-- :computer: Desenvolvedora Backend / Backend Developer
-- :books: Análise e Desenvolvimento de Sistemas / Computer Systems Analyst
-- :briefcase: Itaú Unibanco
+### About me
+- :computer: Developer: Backend (.NET, Java, Python), Mobile (Dart/Flutter)
+- 🎓 Computer Systems Analyst
+- :briefcase: :portugal: B11 Top Talents
