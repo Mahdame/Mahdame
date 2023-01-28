@@ -1,9 +1,5 @@
 ## Olá Mundo! / Hello World!
 
-<a href="https://twitter.com/devmaira">
-  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/RjWaD05.png" />
-</a>
-
 <a href="https://www.linkedin.com/in/mairamourabarbosa/">
   <img align="left" alt="Linkdin" width="22px" src="https://i.imgur.com/cwrwvQa.png" />
 </a>
@@ -24,6 +20,6 @@
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" />
 
 ### About me
-- :computer: Developer: Backend (.NET, Java, Python), Mobile (Dart/Flutter)
+- :computer: Developer: Backend (.NET, Java, Python), Mobile/Web (Dart/Flutter)
 - 🎓 Computer Systems Analyst
 - :briefcase: :portugal: B11 Top Talents
