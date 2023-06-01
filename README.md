@@ -22,4 +22,4 @@
 ### About me
 - :computer: Developer: Backend (.NET, Java, Python), Mobile/Web (Dart/Flutter)
 - 🎓 Computer Systems Analyst
-- :briefcase: :portugal: B11 Top Talents
+- :briefcase: :portugal: Tonnie Talent
