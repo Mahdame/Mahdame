@@ -1,5 +1,5 @@
 # 👋 Hello World! 🌐
-<a href="mailto:mairabarbosa@gmail.com">
+<a href="mailto:mairabarbosa.pt@gmail.com">
   <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mairamourabarbosa/">
